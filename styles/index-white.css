@@ -2,19 +2,20 @@
     list-style-type: none; 
     font-size: 18px;
     text-align: justify;
+    color: white;
 } 
 .text-yellow{
-    color: #f6fc8b;
-}
-a.text-yellow:hover{
-    color: #d4da6b;
-}
-.text-red{
     color: #a4002d;
 }
+a.text-yellow:hover{
+    color: #600009;
+}
+.text-red{
+    color: #ffffff;
+}
 .bg-yellow{
-    background-color: #f6fc8b;
+    background-color: #a4002d;
 }
 .bg-red{
-    background-color: #a4002d;
+    background-color: #ffffff;
 }
