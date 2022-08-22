@@ -1,0 +1,20 @@
+.atua{
+    list-style-type: none; 
+    font-size: 18px;
+    text-align: justify;
+} 
+.text-yellow{
+    color: #f6fc8b;
+}
+a.text-yellow:hover{
+    color: #d4da6b;
+}
+.text-red{
+    color: #a4002d;
+}
+.bg-yellow{
+    background-color: #f6fc8b;
+}
+.bg-red{
+    background-color: #a4002d;
+}
