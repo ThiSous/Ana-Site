@@ -2,18 +2,13 @@
     list-style-type: none; 
     font-size: 18px;
     text-align: justify;
+    color: white;
 } 
-.text-yellow{
-    color: #f6fc8b;
-}
-a.text-yellow:hover{
-    color:  #936439;
-}
 .text-red{
     color: #a4002d;
 }
-.bg-yellow{
-    background-color: #f6fc8b;
+a.text-red:hover{
+    color: #600009;
 }
 .bg-red{
     background-color: #a4002d;
